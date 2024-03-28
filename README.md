@@ -1,4 +1,4 @@
-This applicationb uses Python and FastAPI to create LLM router that will support OpenAI, Anthropic and Anyscale.
+This application uses Python and FastAPI to create LLM router that will support OpenAI, Anthropic and Anyscale.
 
 Folder structure:
 app/main.py -> entry point for the aplication
